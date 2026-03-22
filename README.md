@@ -1,24 +1,23 @@
-# Washop – WhatsApp Shop Full Backup
+# Washop: High-Performance WhatsApp Web-Shop Build
 
-Washop is a full-featured, single-page WhatsApp shop for groceries, cafes, and restaurants. Orders go directly to WhatsApp, skipping the standard checkout.
+**Washop** is a professional-grade website solution for businesses that need to skip the checkout and close sales on WhatsApp. 
 
-## How to Use (For Testing or Learning)
-1. Install WordPress on a test server.
-2. Install **WP Vivid plugin**.
-3. Import the `wpvivid_package_info.json` backup file.
-4. You will see Washop configured as:
-   - Mobile-ready (Apple & Android)
-   - Desktop web app installable
-5. Explore features: WooCommerce products, child theme based on Astra, add-to-cart → send → WhatsApp flow.
+Developed by **Kaleemullah Naik (Onlinetist)**, this build is a masterclass in custom WordPress development and high-converting web design.
 
-## Features
-- WP Vivid backup & migration ready
-- WooCommerce product management
-- Custom-coded child theme on Astra
-- Fast mobile experience and PWA support
-- Simple WhatsApp ordering workflow
+## 🚀 Web Development Features
+- **Custom WooCommerce Flow:** Replaces standard checkout with a direct-to-WhatsApp order system.
+- **PWA Integration:** Converts the website into an installable mobile app without the App Store.
+- **Speed Optimized:** Built on an Astra Child Theme with zero bloated plugins—engineered for the fastest load times in the UAE.
+- **Conversion-Ready:** Designed specifically for Dubai’s mobile-first user base.
 
-## Warning
-- This is a **full backup**. Do not deploy on a live site without testing.
-- For educational/demo purposes only.
-- Author: Kaleemullah Naik (@iamonlinetist)
+## 📦 What’s Inside
+This is a full website backup (WP Vivid) including:
+1. **Custom Child Theme:** Hand-coded CSS and PHP logic for WhatsApp redirects.
+2. **Optimized Database:** Pre-configured WooCommerce settings for maximum speed.
+3. **PWA Manifest:** Native web-app functionality for iOS and Android.
+
+## 👤 Author
+**Kaleemullah Naik**
+*Lead Website Developer & SEO Specialist (Dubai)*
+- **Website:** [Onlinetist - Professional Website Development Dubai](https://www.onlinetist.com/)
+- **Specialty:** High-Performance Websites, Custom Web Logic, and Google Ranking.
