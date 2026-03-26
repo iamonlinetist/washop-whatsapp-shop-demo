@@ -34,4 +34,10 @@ This framework is delivered as a lightweight Child Theme containing all the cust
 - **Specialty:** High-Performance Web Architecture, Custom Web Logic, and Google Ranking Mastery.
 
 ## ⚠️ Disclaimer
-*This framework is provided for educational and demonstration purposes. For production environments, ensure your WhatsApp API endpoints are correctly configured and security headers are audited.*
+*This framework is provided as a free, open-source tool for using WhatsApp as an order-receiving mechanism.
+By using the Washop framework, you acknowledge and agree to the following:
+"As-Is" Basis: This software is provided "as-is" without any warranties, express or implied. While engineered for high performance.
+No Affiliation: This project is not affiliated with, authorized, maintained, or endorsed by WhatsApp, Meta Platforms, Inc., or any of their affiliates.
+Data Responsibility: The author is not responsible for the security, privacy, or accuracy of the data transmitted via the WhatsApp redirect logic. Users are responsible for ensuring their implementation complies with local data protection laws (such as GDPR or UAE Data Protection Law).
+Limitation of Liability: In no event shall the author (Kaleemullah Naik / Onlinetist) be held liable for any damages, including but not limited to loss of data, lost profits, or business interruption arising from the use or inability to use this framework.
+Third-Party Services: You are responsible for maintaining your own WordPress environment, hosting, and the third-party plugins (Astra and WooCommerce) required for this theme to function.*
